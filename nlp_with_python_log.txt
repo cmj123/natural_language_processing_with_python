@@ -11,3 +11,4 @@ NLP - Natural Laguage with Python Log
 2019-10-12 - 10. Completed s02-l08 - Working with PDF.
 2019-10-12 - 11. Completed s02-l09 - Regular Expression Part One.
 2019-10-12 - 12. Completed s02-l10 - Regular Expression Part Two.
+2019-10-12 - 13. Started Section 03 - Natural Language Processing Basics.
