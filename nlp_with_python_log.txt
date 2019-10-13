@@ -8,4 +8,5 @@ NLP - Natural Laguage with Python Log
 2019-10-12 - 07. Completed s02-l05 - Introduction to Python Text Basics.
 2019-10-12 - 08. Completed s02-l06 - Working with Text Files with Python - Part One.
 2019-10-12 - 09. Completed s02-l07 - Working with Text Files with Python - Part Two.
-2019-10-12 - 10. Completed s02-l08 - Regular Expression Part One.
+2019-10-12 - 10. Completed s02-l09 - Regular Expression Part One.
+2019-10-12 - 10. Completed s02-l10 - Regular Expression Part Two.
