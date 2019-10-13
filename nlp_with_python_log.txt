@@ -1,0 +1,2 @@
+NLP - Natural Laguage with Python Log
+2019-10-12 - 1. Completed s01 l01 - Course Overview. 
