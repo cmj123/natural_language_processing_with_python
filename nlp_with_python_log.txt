@@ -16,3 +16,4 @@ NLP - Natural Laguage with Python Log
 2019-10-12 - 15. Completed s03-l14 - Spacy Setup and Overview.
 2019-10-12 - 16. Completed s03-l15 - What is Natural Language Processing?
 2019-10-12 - 17. Completed s03-l16 - Spacy Basics.
+2019-10-12 - 18. Completed s03-l17 - Tokenization - Part One.
