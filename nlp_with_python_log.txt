@@ -6,3 +6,4 @@ NLP - Natural Laguage with Python Log
 2019-10-12 - 05. Completed section 01!
 2019-10-12 - 06. Started section 02 - Python Text Basics.
 2019-10-12 - 07. Completed s02-l05 - Introduction to Python Text Basics.
+2019-10-12 - 08. Completed s02-l06 - Working with Text Files with Python - Part One.
