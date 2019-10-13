@@ -3,3 +3,4 @@ NLP - Natural Laguage with Python Log
 2019-10-12 - 2. Completed s01-l02 - Curriculum Overview.
 2019-10-12 - 3. Completed s01-l03 - Installation and Setup Lecture.
 2019-10-12 - 4. Completed s01-l04 - FAQ.
+2019-10-12 - 5. Completed section 01!
