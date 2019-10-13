@@ -18,3 +18,4 @@ NLP - Natural Laguage with Python Log
 2019-10-12 - 17. Completed s03-l16 - Spacy Basics.
 2019-10-12 - 18. Completed s03-l17 - Tokenization - Part One.
 2019-10-12 - 19. Completed s03-l18 - Tokenization - Part Two.
+2019-10-12 - 20. Completed s03-l19 - Stemming.
