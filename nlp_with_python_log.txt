@@ -20,3 +20,4 @@ NLP - Natural Laguage with Python Log
 2019-10-12 - 19. Completed s03-l18 - Tokenization - Part Two.
 2019-10-12 - 20. Completed s03-l19 - Stemming.
 2019-10-14 - 21. Completed s03-l20 - Lemmatization.
+2019-10-14 - 22. Completed s03-l21 - stops words.
