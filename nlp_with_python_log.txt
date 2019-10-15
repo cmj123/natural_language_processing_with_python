@@ -23,3 +23,4 @@ NLP - Natural Laguage with Python Log
 2019-10-14 - 22. Completed s03-l21 - stops words.
 2019-10-15 - 23. Completed s03-l22 - Phrase Matching and Vocabulary - Part One.
 2019-10-15 - 24. Completed s03-l23 - Phrase Matching and Vocabulary - Part Two.
+2019-10-15 - 25. Started section 06 - semantics and sentiment analysis.
