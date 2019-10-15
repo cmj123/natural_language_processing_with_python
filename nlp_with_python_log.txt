@@ -25,3 +25,5 @@ NLP - Natural Laguage with Python Log
 2019-10-15 - 24. Completed s03-l23 - Phrase Matching and Vocabulary - Part Two.
 2019-10-15 - 25. Started section 06 - semantics and sentiment analysis.
 2019-10-15 - 26. Completed s06-l48 - introduction to semantics and sentimental analysis.
+2019-10-15 - 27. Completed s06-l49 - overview of semantics and word vectors.
+2019-10-15 - 28. Completed s06-l50 - semantics and word vector with spacy.
